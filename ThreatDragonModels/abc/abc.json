@@ -1,9 +1,14 @@
 {
   "summary": {
-    "title": "abc"
+    "title": "abc",
+    "description": "a"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "matan"
+      }
+    ],
     "diagrams": [
       {
         "title": "test",
