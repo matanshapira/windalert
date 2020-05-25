@@ -9,6 +9,11 @@
         "title": "test",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
+      },
+      {
+        "title": "abc",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ]
   }
